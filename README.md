@@ -66,13 +66,13 @@ Số dư chi tiêu còn lại: 8,250,000 – 3,000,000 = 5,250,000 VNĐ (Còn l�
 
 Bước 4: Chia chi tiêu linh hoạt theo quy tắc 60/20/20 cải tiến (từ số dư 5,250,000 VNĐ)
 
-Sinh hoạt thiết yếu biến đổi (60%  số dư): 5,250,000 x 60% = 3,150,000 VNĐ → (3,150,000 : 15,000,000) x 100% = 21%
+Sinh hoạt thiết yếu biến đổi (60%  số dư): 5,250,000 x 50% = 2,625,000 VNĐ → (1,575,000 : 15,000,000) x 100% = 10,5%
 
-Cá nhân và Giải trí (20% số dư): 5,250,000 x 20% = 1,050,000 VNĐ → (1,050,000 : 15,000,000) x 100% = 7% 
+Cá nhân và Giải trí (30% số dư): 5,250,000 x 30% = 1,575,000 VNĐ → (1,575,000 : 15,000,000) x 100% = 17,5% 
 
 Quỹ dự phòng thu nhập biến động (20% số dư ): 5,250,000 x 20% = 1,050,000 VNĐ →(1,050,000 : 15,000,000) x 100% = 7%
 
-Đối soát tổng hợp: 30% + 15% + 20% + 21% + 7% + 7% = 100% (khớp chính xác 15,000,000 VNĐ) 
+Đối soát tổng hợp: 30% + 15% + 20% + 17,5% + 10,5% + 7% = 100% (khớp chính xác 15,000,000 VNĐ) 
 
 Phần 2: Bảng phân bổ ngân sách cuối cùng bằng Markdown Table với các cột: Hạng mục, Số tiền, Tỷ lệ %, Ghi chú.
 
@@ -80,13 +80,13 @@ Hạng mục	Số tiền	Tỷ lệ %	Ghi chú
 
 Chi phí cố định bắt buộc	4,500,000 VNĐ	30%	Tiền phòng trọ, điện, nước, internet.
 
-Sinh hoạt thiết yếu biến đổi	3,150,000 VNĐ	21%	Ăn uống, xăng xe, đi lại hàng ngày.
+Sinh hoạt thiết yếu biến đổi	2,625,000 VNĐ	17,5%	Ăn uống, xăng xe, đi lại hàng ngày.
 
 Thanh toán nợ tối thiểu	2,250,000 VNĐ	15%	Trả góp và thanh toán tối thiểu thẻ tín dụng đúng hạn.
 
 Quỹ tiết kiệm cam kết	3,000,000 VNĐ	20%	Khóa cứng ngay khi nhận lương để đảm bảo kỷ luật.
 
-Chi tiêu cá nhân và Giải trí	1,050,000 VNĐ	7%	Mua sắm, cà phê, giải trí cuối tuần.
+Chi tiêu cá nhân và Giải trí	1,575,000 VNĐ	10,5%	Mua sắm, cà phê, giải trí cuối tuần.
 
 Quỹ dự phòng linh hoạt	1,050,000 VNĐ	7%	Bù đắp dòng tiền cho những tháng thu nhập sụt giảm.
 
